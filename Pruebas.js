@@ -1,2 +1,2 @@
-console.log("Hola Gonorreas Hp")
+console.log("Hola Gonorreas")
 
